@@ -25,6 +25,11 @@ Sumário:
   - As perguntas são de caráter educativo, sobre Lógica de programação e Python, disciplinas lecionadas nas aulas.
   
   
+ Este projeto possui os seguintes recursos:
+  - Sistema de usuário, com uma interface de inicio com 2 botões, um para conectar caso o usuário ja seja registrado e outro para Registrar-se, caso ele ainda não for.
+  - Um menu onde o usuário ja esteja conectado, com um botão para inicar o questionário, outro para verificar o ranking e um para desconectar.
+  - Para finalizar, uma interface sera exibida com sua pontuação, o rank atingido e opções para retornar ou sair.
+  
 ⚙️ Executando os testes
 
   - Área em desenvolvimento.
@@ -48,7 +53,5 @@ Vitor Negresiolo
 Gabriel Parmigiano
 Vitor Morija 
 
-Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
-Fulano De Tal - Documentação - fulanodetal
-Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
+
 
