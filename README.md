@@ -36,7 +36,7 @@ Sumário:
 
 🛠️ Construído com: 
 
-A criaçao do jogo foi feita em linguagem Java, com interação com o banco de dados projetado. 
+A criaçao do jogo foi feita em linguagem Java e mysql. 
 
 
 📌 Versão
